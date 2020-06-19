@@ -1,4 +1,4 @@
-#Scripts
+# Scripts
 ## mouse.py
 Super simple script that, when run, tells you x,y coordinates of your mouse position.
 
