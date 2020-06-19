@@ -1,7 +1,7 @@
 # automation
 A random, disorganized folder full of automation scripts that I made.
 
-use.py
+## mouse.py
 Super simple script that, when run, tells you x,y coordinates of your mouse position.
 
 ## raid.py
